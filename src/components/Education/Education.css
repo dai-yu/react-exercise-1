@@ -1,0 +1,21 @@
+.education {
+  display: flex;
+  margin: 20px 0px;
+}
+.time {
+  width: 100px;
+}
+.time h3 {
+  color: black;
+}
+.description {
+  width: 100%;
+  background-color: #ededed;
+}
+.description h3 {
+  color: black;
+  padding: 10px;
+}
+.description p {
+  padding: 0px 10px 10px 10px;
+}
